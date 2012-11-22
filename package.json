@@ -1,7 +1,7 @@
 {
     "name": "mocha-specxunitcov-reporter",
     "description": "spec to console, xunit to test.xml, cov to coverage.html reporter for Mocha",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "author": "David Martin <david.martin@feedhenry.com>",
     "keywords": [ "mocha", "multiple", "reporter", "spec", "xunit", "coverage" ],
 
