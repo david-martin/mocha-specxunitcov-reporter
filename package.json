@@ -17,7 +17,7 @@
     "main": "index.js",
     "engines": { "node": ">= 0.6.0" },
     "scripts": {
-    }
+    },
   "repository" : {
      "type" : "git",
      "url" : "https://github.com/david-martin/mocha-specxunitcov-reporter.git"
