@@ -1,0 +1,21 @@
+{
+    "name": "mocha-specxunitcov-reporter",
+    "description": "spec to console, xunit to test.xml, cov to coverage.html reporter for Mocha",
+    "version": "0.0.1",
+    "author": "David Martin <david.martin@feedhenry.com>",
+    "keywords": [ "mocha", "multiple", "reporter", "spec", "xunit", "coverage" ],
+
+    "dependencies": {
+      "mocha": "*",
+      "jade": "*"
+    },
+    "devDependencies": {
+    },
+    "directories": {
+        "lib": "./lib"
+    },
+    "main": "index.js",
+    "engines": { "node": ">= 0.6.0" },
+    "scripts": {
+    }
+}
