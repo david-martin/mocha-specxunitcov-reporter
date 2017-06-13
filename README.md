@@ -1,3 +1,5 @@
+*NOT MAINTAINED* 
+
 Custom mocha https://github.com/visionmedia/mocha reporter
 
 Outputs:
